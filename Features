@@ -1,1 +1,60 @@
-Comming
+ [Project Bronze Forever / Shining Silver / Adv Remastered]
+ 
+   • Advanced Auto Finder
+   
+     > Toggles
+       - Enable/Disable Auto Finder
+       - Get Variations
+       - Get Shiny
+       - Webhook Notify
+       
+     > Webhook
+       - Webhook Link (TextBox)
+       - Test Webhook
+       
+     > List
+       - Pokemon Name (TextBox)
+       - WishList Pokemon
+       - UnWishList Pokemon
+       - Pokemons List
+       - Automatic pokemon list saving
+       
+     > Options
+       -> Fishing Rood
+         - Good Rod
+         - Old Rod
+         
+       -> Encounter Mode
+         - Grass
+         - Water
+         - Candle
+         - Bee Tree
+         
+       -> Encounter Type
+         - Safe
+         - Risky
+
+       - Encounter Delay (NumberBox)
+       
+     > Auto Finder Status
+       - Geral encounter status
+       
+       
+   • Auto Battle --[IN-DEV]
+   
+     > Toggles
+       - Enable/Disable Auto Battle
+       
+       -> Move
+         - Move1
+         - Move2
+         - Move3
+         - Move4
+         
+
+   • LocalPlayer --[IN-DEV]
+     > Main
+       - Enable/Disable Noclip
+       - WalkSpeed modifier
+       
+   • Automatically included: Anti Cheat bypass | Anti Afk
